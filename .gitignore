@@ -74,7 +74,7 @@ src/
 .ipynb_checkpoints
 *.ipynb_backup   
 
-songs/
+#songs/
 output/
 
 .jupyter_ystore.db 
